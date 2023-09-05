@@ -1,7 +1,7 @@
 
 alumnos = [];
 
-function agregarAlumno(nombre, apellidos, edad, materiasInscritas, calificaciones) {
+function agregarAlumno(nombre, apellidos, edad, materiasInscritas, calificaciones, grupo) {
     const nuevoAlumno = {
         nombre,
         apellidos,
